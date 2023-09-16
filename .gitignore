@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+nacos-data/
+core.*
+*.pt
+*.bin
+*.npy
+*.pkl
+*.model
+*.pickle
+*.npz
+*.csv
+__pycache__/
