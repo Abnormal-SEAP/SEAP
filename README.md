@@ -1,6 +1,6 @@
 # SEAP
 
-This is the PyTorch implementation of "SEAP: SEMI-SUPERVISED ABNORMAL GROUP MINING ON LARGE-SCALE HETEROGENEOUS GRAPHS".
+This is the implementation of "SEAP: SEMI-SUPERVISED ABNORMAL GROUP MINING ON LARGE-SCALE HETEROGENEOUS GRAPHS".
 
 ![model](./figures/model.png)
 
