@@ -14,7 +14,7 @@ The pipeline of mining abnormal groups:
   - ```model.py```: The code of U-HGAT model.
   - ```conv.py```: The code of convolution layer in U-HGAT.
   - ```negative_sampler.py```: The code of generating negative samples for unsupervised learning.
-- ```model.ipynb```: includes all codes for SEAP.
+- ```model.py```: includes all codes for SEAP.
   - Load data.
   - Heterogeneous Graph Construction.
   - Clustering for Abnormal Patterns.
@@ -28,8 +28,8 @@ The pipeline of mining abnormal groups:
 cd U-HGAT/
 python train.py
 
-# Run codes in model.ipynb to mine abnormal groups.
-open model.ipynb
+# Run codes in model.py to mine abnormal groups.
+python model.py
 ```
 
 # Results
